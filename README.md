@@ -4,7 +4,7 @@
 
 softkinetic depthsense sdk
 
-files were too big to upload. can't find these files anywhere. luckily i found a copy from a harddrive years ago.
+files were too big to upload. can't find these files anywhere. luckily i found a copy from an old harddrive i used years ago.
 
 hosting them on google drive
 
