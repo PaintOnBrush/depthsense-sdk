@@ -1,4 +1,6 @@
 # windows-depthsense-sdk
+&
+# linux-depthsense-sdk
 
 softkinetic depthsense sdk
 
